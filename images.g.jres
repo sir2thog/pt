@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "skellyFront"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAODuDAAAAAAALiLCAAAAAOBC4i4MAAAA4CXi7uIAAADgJCLiwgAAAOAiIuLCAAAAyC4iIu4AAABoLCLizswAAGjI7C4i4gxghwDgQiLuzmCHAOAlIu7CdggA4CQi4sJ2iGbIIiLiwnZ2d2YsIu7CdoiIiMgiIgyGCAAAAO7MAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "potion"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
